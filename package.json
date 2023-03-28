@@ -22,7 +22,8 @@
   },
   "eslintConfig": {
     "rules": {
-      "jsx-a11y/accessible-emoji": "off"
+      "react/prop-types": "off",
+      "react/no-unknown-property": "off"
     }
   },
   "scripts": {
