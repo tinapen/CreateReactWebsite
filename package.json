@@ -14,8 +14,14 @@
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
+    "@types/react": "^18.0.30",
     "gh-pages": "^5.0.0",
     "typescript": "4.1.3"
+  },
+  "eslintConfig": {
+    "rules": {
+      "jsx-a11y/accessible-emoji": "off"
+    }
   },
   "scripts": {
     "start": "react-scripts start",
