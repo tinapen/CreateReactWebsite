@@ -1,6 +1,11 @@
 import React from "react";
 import CardItem from "./CardItem";
 import "./Cards.css";
+import Image9 from "../images/img-9.jpg";
+import Image2 from "../images/img-2.jpg";
+import Image3 from "../images/img-3.jpg";
+import Image4 from "../images/img-4.jpg";
+import Image8 from "../images/img-8.jpg";
 
 function Cards() {
   return (
@@ -10,13 +15,13 @@ function Cards() {
         <div className="cards_wrapper">
           <ul className="cards_items">
             <CardItem
-              src="./images/img-9.jpg"
+              src={Image9}
               text="Explore the hidden waterfall deep insidee the Amazon Jungle"
               label="Adventure"
               path="/services"
             />
             <CardItem
-              src="./images/img-2.jpg"
+              src={Image2}
               text="Travel through the Islands of Bali in a Private Cruise"
               label="Luxury"
               path="/services"
@@ -24,19 +29,19 @@ function Cards() {
           </ul>
           <ul className="cards_items">
             <CardItem
-              src="./images/img-3.jpg"
+              src={Image3}
               text="Sea Sail in the Atlantic Ocean visiting Uncharted Waters"
               label="Mystery"
               path="/services"
             />
             <CardItem
-              src="./images/img-4.jpg"
+              src={Image4}
               text="Experience Football on Top of the Himalayan Mountains"
               label="Adventure"
               path="/services"
             />
             <CardItem
-              src="./images/img-8.jpg"
+              src={Image8}
               text="Rides through the Sahara Dessert on a guided camel tour"
               label="Adventure"
               path="/services"
