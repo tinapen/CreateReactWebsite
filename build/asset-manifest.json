@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CreateReactWebsite/tinapen.github.io/static/css/main.0e957352.css",
-    "main.js": "/CreateReactWebsite/tinapen.github.io/static/js/main.db600f02.js",
+    "main.js": "/CreateReactWebsite/tinapen.github.io/static/js/main.be99581a.js",
     "static/media/img-2.jpg": "/CreateReactWebsite/tinapen.github.io/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-1.jpg": "/CreateReactWebsite/tinapen.github.io/static/media/img-1.53f4843759ebec256cb9.jpg",
     "static/media/img-8.jpg": "/CreateReactWebsite/tinapen.github.io/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "index.html": "/CreateReactWebsite/tinapen.github.io/index.html",
     "main.0e957352.css.map": "/CreateReactWebsite/tinapen.github.io/static/css/main.0e957352.css.map",
-    "main.db600f02.js.map": "/CreateReactWebsite/tinapen.github.io/static/js/main.db600f02.js.map"
+    "main.be99581a.js.map": "/CreateReactWebsite/tinapen.github.io/static/js/main.be99581a.js.map"
   },
   "entrypoints": [
     "static/css/main.0e957352.css",
-    "static/js/main.db600f02.js"
+    "static/js/main.be99581a.js"
   ]
 }
